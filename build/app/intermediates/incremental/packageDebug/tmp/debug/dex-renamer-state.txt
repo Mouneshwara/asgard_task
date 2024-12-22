@@ -1,0 +1,4 @@
+#Sun Dec 22 16:04:48 IST 2024
+base.0=/Users/mouneshwara/Documents/GitHub/asgard_task/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
